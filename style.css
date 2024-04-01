@@ -1,0 +1,42 @@
+.cent{
+          
+    font-size: 40px; 
+    color: black; 
+    text-align: center;
+}
+
+body{
+    background-color: rgb(223, 233, 184);  
+
+
+}
+
+.segun{
+  
+    font-size: 30px; 
+    color: rgb(3, 19, 2); 
+    text-align: center;
+}
+
+.tercer{
+  
+    font-size: 30px; 
+    color: rgb(8, 37, 5); 
+    
+}
+
+.carousel{
+
+    font-size: 30px; 
+    color:white; 
+    text-align: center;
+}
+
+.card{
+
+    color: orange;
+    text-align: center;
+}
+
+
+
