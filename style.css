@@ -1,3 +1,22 @@
+body{
+    background-color: rgb(223, 223, 223);  
+
+
+}
+
+h1{
+    font-size: 60px; 
+    text-align: left;
+    color: orangered; 
+
+}
+
+h2{
+    text-align: left ;
+    color: white; 
+   
+}
+
 .cent{
           
     font-size: 40px; 
@@ -5,11 +24,6 @@
     text-align: center;
 }
 
-body{
-    background-color: rgb(223, 233, 184);  
-
-
-}
 
 .segun{
   
@@ -34,8 +48,10 @@ body{
 
 .card{
 
-    color: orange;
+    color: orangered;
     text-align: center;
+    margin: 5px;
+
 }
 
 
